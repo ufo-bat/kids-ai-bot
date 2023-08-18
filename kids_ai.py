@@ -15,7 +15,7 @@ updater = Updater(token=auth_token)
 photo1 = 'IMAG0014.jpg'
 photo2 = 'IMAGE_124.jpg'
 f = open('hobby.txt')
-repoURL='https://github.com/ufo-bat/kids-ai-bot'
+repoURL='https://github.com/ufo-bat/kids-ai-bot/blob/main/kids_ai.py'
 
 
 def greet(update, context):
